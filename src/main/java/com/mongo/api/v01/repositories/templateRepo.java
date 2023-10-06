@@ -1,6 +1,6 @@
-package com.selfcare.engine.v01.repositories;
+package com.mongo.api.v01.repositories;
 
-import com.selfcare.engine.v01.entity.Template;
+import com.mongo.api.v01.entity.Template;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 

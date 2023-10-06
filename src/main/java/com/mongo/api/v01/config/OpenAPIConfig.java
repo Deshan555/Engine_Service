@@ -1,4 +1,4 @@
-package com.selfcare.engine.v01.config;
+package com.mongo.api.v01.config;
 
 import java.util.List;
 

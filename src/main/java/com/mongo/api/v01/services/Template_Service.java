@@ -1,6 +1,6 @@
-package com.selfcare.engine.v01.services;
+package com.mongo.api.v01.services;
 
-import com.selfcare.engine.v01.entity.Template;
+import com.mongo.api.v01.entity.Template;
 
 import java.util.List;
 

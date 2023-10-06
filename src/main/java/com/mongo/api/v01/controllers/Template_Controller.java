@@ -1,7 +1,7 @@
-package com.selfcare.engine.v01.controllers;
+package com.mongo.api.v01.controllers;
 
-import com.selfcare.engine.v01.entity.Template;
-import com.selfcare.engine.v01.json.Response;
+import com.mongo.api.v01.entity.Template;
+import com.mongo.api.v01.json.Response;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.Schema;
@@ -12,7 +12,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import com.selfcare.engine.v01.servicesIMPL.Template_ServiceIMPL;
+import com.mongo.api.v01.servicesIMPL.Template_ServiceIMPL;
 
 @Tag(name = "Tutorial", description = "Tutorial management APIs")
 @RestController
