@@ -32,17 +32,16 @@ public class OpenAPIConfig {
         prodServer.setDescription("Server URL in Production environment");
 
         Contact contact = new Contact();
-        contact.setEmail("bezkoder@gmail.com");
-        contact.setName("BezKoder");
-        contact.setUrl("https://www.bezkoder.com");
-
+        contact.setEmail("deshan.jayashanka@eimsky.com");
+        contact.setName("Deshan Jayashanka");
+        contact.setUrl("https://github.com/Deshan555");
         License mitLicense = new License().name("MIT License").url("https://choosealicense.com/licenses/mit/");
 
         Info info = new Info()
-                .title("Tutorial Management API")
+                .title("Template Management API")
                 .version("1.0")
                 .contact(contact)
-                .description("This API exposes endpoints to manage tutorials.").termsOfService("https://www.bezkoder.com/terms")
+                .description("This API exposes endpoints to Manage Templates").termsOfService("https://github.com/Deshan555")
                 .license(mitLicense);
 
         return new OpenAPI().info(info).servers(List.of(devServer, prodServer));
