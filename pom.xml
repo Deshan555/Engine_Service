@@ -8,11 +8,11 @@
         <version>3.0.11</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.selfcare.engine.v01</groupId>
-    <artifactId>Template_API</artifactId>
+    <groupId>com.mongo</groupId>
+    <artifactId>Mongo_API</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Template_API</name>
-    <description>that is mail template engine api based on mongoDB</description>
+    <name>Mongo_API</name>
+    <description>Mongo_API</description>
     <properties>
         <java.version>17</java.version>
     </properties>
