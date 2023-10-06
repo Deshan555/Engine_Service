@@ -1,4 +1,4 @@
-package com.mongo.api.v01.json;
+package com.selfcare.engine.v01.json;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

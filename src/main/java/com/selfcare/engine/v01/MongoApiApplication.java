@@ -1,4 +1,4 @@
-package com.mongo.api.v01;
+package com.selfcare.engine.v01;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

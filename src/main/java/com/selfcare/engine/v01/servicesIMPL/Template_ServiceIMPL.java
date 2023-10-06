@@ -1,8 +1,8 @@
-package com.mongo.api.v01.servicesIMPL;
+package com.selfcare.engine.v01.servicesIMPL;
 
-import com.mongo.api.v01.entity.Template;
-import com.mongo.api.v01.repositories.templateRepo;
-import com.mongo.api.v01.services.Template_Service;
+import com.selfcare.engine.v01.entity.Template;
+import com.selfcare.engine.v01.repositories.templateRepo;
+import com.selfcare.engine.v01.services.Template_Service;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;

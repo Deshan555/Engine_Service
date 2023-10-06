@@ -1,4 +1,4 @@
-package com.mongo.api.v01.entity;
+package com.selfcare.engine.v01.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
