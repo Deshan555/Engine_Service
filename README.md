@@ -2,6 +2,8 @@
 
 Welcome to the Email Template API documentation! This API allows you to effortlessly create, manage, and store email templates in a MongoDB database. Whether you're building a newsletter system, notification service, or any application requiring email templates, this API has you covered. 💌💼
 
+![](https://github.com/Deshan555/Mongo_API/blob/master/archi.png)
+
 ## 📋 Table of Contents
 
 - [Introduction](#introduction)
